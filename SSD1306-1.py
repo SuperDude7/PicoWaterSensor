@@ -2,6 +2,7 @@
 #
 # library taken from repository at:
 # https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py
+# It no longer exists so it is on my github https://github.com/SuperDude7/PicoWaterSensor
 #
 from micropython import const
 import framebuf
